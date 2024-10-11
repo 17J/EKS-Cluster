@@ -1,2 +1,2 @@
 # EKS_Terraform
-Terraform Sample EKS
+Simple Demo Of EKS Cluster
