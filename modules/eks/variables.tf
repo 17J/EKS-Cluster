@@ -26,7 +26,7 @@ variable "ssh_key_name" {
 
 variable "instance_types" {
   type    = list(string)
-  default = ["t2.large"]
+  default = ["t2.medium"]
 }
 
 variable "node_desired_size" {
