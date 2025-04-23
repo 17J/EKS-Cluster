@@ -15,7 +15,7 @@ This project provisions an Elastic Kubernetes Service (EKS) cluster using Terraf
 ## 🧪 Steps to Deploy AKS using Terraform
 
 ### 1️⃣ Authenticate with AWS CLI
-```bash
+
 
 ```bash
 aws configure
