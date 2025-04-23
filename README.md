@@ -31,9 +31,9 @@ Default region (e.g., us-east-1)
 Output format (e.g., json)
 
 
-### 2️⃣ Navigate to EKS_Cluster Directory 
+### 2️⃣ Navigate to EKS-Cluster Directory 
 ```bash
-cd EKS_Cluster
+cd EKS-Cluster
 ```
 
 
