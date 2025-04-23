@@ -1,12 +1,7 @@
 
 # 🚀 Terraform EKS Cluster Deployment on AWS
 
-This project provisions an AWS Kubernetes Service (AKS) cluster using Terraform. It includes:
-
-- Azure Resource Group
-- Virtual Network and Subnet
-- AKS Cluster with a default node pool
-- SSH key configuration for node access
+This project provisions an Elastic Kubernetes Service (EKS) cluster using Terraform. It includes:
 
 ---
 
