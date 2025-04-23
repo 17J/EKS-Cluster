@@ -1,6 +1,6 @@
 variable "cluster_name" {
   type    = string
-  default = "expdevops17-cluster"
+  default = "expdevops-cluster"
 }
 
 variable "cluster_role_arn" {
