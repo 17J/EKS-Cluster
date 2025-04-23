@@ -47,7 +47,7 @@ terraform init
 terraform plan
 ```
 
-### 5️⃣ Apply the Terraform plan
+### 5️⃣ Apply the Terraform 
 ```bash
 terraform apply
 ```
