@@ -34,7 +34,7 @@ Output format (e.g., json)
 
 ### 2️⃣ Navigate to EKS-Cluster Directory 
 ```bash
-cd EKS-Cluster
+cd Terraform-Code-For-AWS-EKS-Cluster
 ```
 
 
