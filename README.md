@@ -8,6 +8,7 @@ This project provisions an Elastic Kubernetes Service (EKS) cluster using Terraf
 ## 🛠️ Prerequisites
 
 - AWS CLI: [Install](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
+- Kubectl 
 - Terraform CLI: [Install](https://developer.hashicorp.com/terraform/downloads)
 - IAM user with programmatic access and `AdministratorAccess` policy
 - AWS credentials configured via environment variables or `~/.aws/credentials`
